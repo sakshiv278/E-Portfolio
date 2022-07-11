@@ -303,6 +303,9 @@ section .title::after{
 .services .serv-content .card:hover{
     background:  rgb(206, 79, 48);
 }
+.services .serv-content .card .box .a{
+    color: white;
+}
 .services .serv-content .card .box{
     transition: all 0.3s ease;
 }
